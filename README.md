@@ -1,2 +1,3 @@
 # landing-page
-This is a landing page for FOThffdfdg
+This is a landing page for FOT
+Hello I'm Shashi!
